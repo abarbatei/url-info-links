@@ -48,6 +48,6 @@ https://www.malwaredomainlist.com/mdl.php
 
 https://sitecheck.sucuri.net/
 
-- schema: https://sitecheck.sucuri.net/results/<URL>
+- schema: https://sitecheck.sucuri.net/results/\<URL\>
 
 https://www.phishtank.com/
