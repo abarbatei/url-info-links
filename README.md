@@ -6,11 +6,11 @@ Short list of usefull links for URL threat assessment and domain information ext
 
 http://whois.domaintools.com/
 
-- schema: http://whois.domaintools.com/<URL>
+- schema: http://whois.domaintools.com/<URL\>
 
 https://urlscan.io/
 
-- schema: https://urlscan.io/search/#<URL>
+- schema: https://urlscan.io/search/#<URL\>
 - API: https://urlscan.io/about-api/
 
 
@@ -35,8 +35,8 @@ Google Save Browsing
 
 - if it has hosted malware in the past 90 days
 - schema: 
-    - http://google.com/safebrowsing/diagnostic?site=<URL>
-    - https://transparencyreport.google.com/safe-browsing/search?url=<URL>
+    - http://google.com/safebrowsing/diagnostic?site=<URL\>
+    - https://transparencyreport.google.com/safe-browsing/search?url=<URL\>
 
 https://virusdesk.kaspersky.com/
 
@@ -44,10 +44,10 @@ https://virusdesk.kaspersky.com/
 
 https://www.malwaredomainlist.com/mdl.php
 
-- schema: https://www.malwaredomainlist.com/mdl.php?search=<URL>
+- schema: https://www.malwaredomainlist.com/mdl.php?search=<URL\>
 
 https://sitecheck.sucuri.net/
 
-- schema: https://sitecheck.sucuri.net/results/\<URL\>
+- schema: https://sitecheck.sucuri.net/results/<URL\>
 
 https://www.phishtank.com/
